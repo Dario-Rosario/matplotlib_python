@@ -1,0 +1,15 @@
+{
+    "Nombre": "Dario",
+    "Apellido": "Ouvrard",
+    "DNI": 26000000,
+    "Vestimenta": [
+        {
+            "Prenda": "zapatilla",
+            "Cantidad": 4
+        },
+        {
+            "Prenda": "remeras",
+            "Cantidad": 12
+        }
+    ]
+}
